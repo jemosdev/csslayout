@@ -11,21 +11,21 @@ This project is a Blog with all knowledge about HTML, CSS Flexbox, Grid and Resp
 ### **Views:**
 
 #### -Blog Home:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard01.jpg)
+![](https://github.com/jemosdev/csslayout/blob/main/Clipboard01.jpg)
 
 #### -Blogposts:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard02.jpg)
+![](https://github.com/jemosdev/csslayout/blob/main/Clipboard02.jpg)
 
 #### -Blogposts:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard03.jpg)
+![](https://github.com/jemosdev/csslayout/blob/main/Clipboard03.jpg)
 
 #### -Blogpost:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard04.jpg)
+![](https://github.com/jemosdev/csslayout/blob/main/Clipboard04.jpg)
 
 #### -Blogpost:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard05.jpg)
+![](https://github.com/jemosdev/csslayout/blob/main/Clipboard05.jpg)
 
 #### -About me:
-![](D:\programming\platzi\codes\frontend\cursomobilefirst\assets\Clipboard06.jpg)
+![](https://github.com/jemosdev/csslayout/blob/main/Clipboard06.jpg)
 
 ### Author: jemosdev
